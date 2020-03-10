@@ -1,0 +1,7 @@
+docs
+.secrets
+.git
+Dockerfile
+README.md
+start.sh
+uninstall-starbound
